@@ -1604,6 +1604,9 @@
 .fa-paypal:before {
   content: "\f1ed";
 }
+.fa-wallet:before {
+  content: "\f555";
+}
 .fa-google-wallet:before {
   content: "\f1ee";
 }
